@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @adiityasharma
+- 👋 Hi, I’m Aditya Sharma
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript React.js Node.js
-- 💞️ I’m looking to collaborate on ..
 - 📫 Reach me at adityasharma626367@gmail.com
 - 😄 Pronouns: He/him
 
