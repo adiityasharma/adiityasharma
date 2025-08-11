@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **FrontEnd, Backend**
+- 💬 Ask me about **FrontEnd, Backend Web dev**
 
 - 📫 How to reach me **adityasharma626367@gmail.com**
 
