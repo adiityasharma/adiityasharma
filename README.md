@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Web Developer from India</h3>
 
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **FrontEnd, Backend Web dev**
 
