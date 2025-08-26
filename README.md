@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **FrontEnd, Backend Web dev**
-
 - 📫 How to reach me **adityasharma626367@gmail.com**
 
 ## 🌐 Socials:
