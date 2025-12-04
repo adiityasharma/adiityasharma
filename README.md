@@ -1,4 +1,8 @@
-<p align="center">Hello👋, I'm Aditya Sharma<br>I don't write bad code — I create unexpected features. <br>I love building interactive web apps with React, Next and exploring creative Tech.</p>
+<h2 align="center">Hello👋, I'm Aditya Sharma</h2>
+
+###
+
+<p align="center">I don't write bad code — I create unexpected features. <br>I love building interactive web apps with React, Next and exploring tech.</p>
 
 ###
 
